@@ -12,7 +12,7 @@ A collection of awesome things related to Rax
 * [react-china](http://react-china.org/c/rax)
 * [zhihu](https://zhuanlan.zhihu.com/raxjs)
 
-## BASIC CONCEPT
+## Basic Concept
 
 * [Getting Start](https://rax.js.org/docs/en-guide/getting-start)
 * [JSX](https://rax.js.org/docs/en-guide/jsx)
@@ -24,7 +24,7 @@ A collection of awesome things related to Rax
 * [Driver](https://rax.js.org/docs/en-guide/driver)
 * [Container Difference](https://rax.js.org/docs/en-guide/containers)
 
-## DEVELOPMENT
+## Development
 
 * [App Introduction](https://rax.js.org/docs/en-guide/app-engineer)
 * [Directory Structure](https://rax.js.org/docs/en-guide/directory-structure)
@@ -38,24 +38,24 @@ A collection of awesome things related to Rax
 * [Document](https://rax.js.org/docs/en-guide/document)
 * [Rax Error Code](https://rax.js.org/docs/en-guide/rax-error-code)
 
-## DEBUGGING
+## Debugging
 
 * [Debugging Web](https://rax.js.org/docs/en-guide/debug-web)
 * [Debugging MiniApp](https://rax.js.org/docs/en-guide/debug-miniapp)
 * [Publish SSR Application](https://rax.js.org/docs/en-guide/ssr-publish)
 
-## ENGINEERING
+## Engineering
 
 * [Introduction](https://rax.js.org/docs/en-guide/about-rax-scripts)
 * [Plugin Configuration](https://rax.js.org/docs/en-guide/plugin-config)
 * [Plugin Development](https://rax.js.org/docs/en-guide/plugin-development)
 
-## PERFORMANCE
+## Performance
 
 * [Loading](https://rax.js.org/docs/en-guide/loading)
 * [Rendering](https://rax.js.org/docs/en-guide/rendering)
 
-## MIGRATION GUIDE
+## Migration Guide
 
 * [Upgrade from Rax 0.x](https://rax.js.org/docs/en-guide/upgrade)
 * [Transitioning from React to Rax](https://rax.js.org/docs/en-guide/react-compatiblity)
@@ -64,7 +64,7 @@ A collection of awesome things related to Rax
 
 * [About Components](https://rax.js.org/docs/en-components/introduce)
 
-## API
+## Api
 
 * [About Api](https://rax.js.org/docs/en-api/introduce)
 * [Rax Core Api](https://rax.js.org/docs/en-api/render)
