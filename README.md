@@ -1,4 +1,4 @@
-# awesome-rax
+# awesome-rax [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/raxjs/awesome-rax)
 A collection of awesome things related to Rax
 
 ## Rax General Resources
