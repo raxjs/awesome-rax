@@ -12,58 +12,61 @@ A collection of awesome things related to Rax
 * [react-china](http://react-china.org/c/rax)
 * [zhihu](https://zhuanlan.zhihu.com/raxjs)
 
-## Doc
+## BASIC CONCEPT
 
-## Component
+* [Getting Start](https://rax.js.org/docs/en-guide/getting-start)
+* [JSX](https://rax.js.org/docs/en-guide/jsx)
+* [JSX+](https://rax.js.org/docs/en-guide/jsxplus)
+* [Components](https://rax.js.org/docs/en-guide/component)
+* [Event](https://rax.js.org/docs/en-guide/event)
+* [Style](https://rax.js.org/docs/en-guide/style)
+* [Hooks](https://rax.js.org/docs/en-guide/hooks)
+* [Driver](https://rax.js.org/docs/en-guide/driver)
+* [Container Difference](https://rax.js.org/docs/en-guide/containers)
+
+## DEVELOPMENT
+
+* [App Introduction](https://rax.js.org/docs/en-guide/app-engineer)
+* [Directory Structure](https://rax.js.org/docs/en-guide/directory-structure)
+* [App Config](https://rax.js.org/docs/en-guide/app-config)
+* [App Entry](https://rax.js.org/docs/en-guide/app-entry)
+* [Lifecycle](https://rax.js.org/docs/en-guide/lifecycle)
+* [Routing](https://rax.js.org/docs/en-guide/routes)
+* [MiniApp](https://rax.js.org/docs/en-guide/about-miniapp)
+* [Weex App](https://rax.js.org/docs/en-guide/about-weex)
+* [Web App](https://rax.js.org/docs/en-guide/about-web)
+* [Document](https://rax.js.org/docs/en-guide/document)
+* [Rax Error Code](https://rax.js.org/docs/en-guide/rax-error-code)
+
+## DEBUGGING
+
+* [Debugging Web](https://rax.js.org/docs/en-guide/debug-web)
+* [Debugging MiniApp](https://rax.js.org/docs/en-guide/debug-miniapp)
+* [Publish SSR Application](https://rax.js.org/docs/en-guide/ssr-publish)
+
+## ENGINEERING
+
+* [Introduction](https://rax.js.org/docs/en-guide/about-rax-scripts)
+* [Plugin Configuration](https://rax.js.org/docs/en-guide/plugin-config)
+* [Plugin Development](https://rax.js.org/docs/en-guide/plugin-development)
+
+## PERFORMANCE
+
+* [Loading](https://rax.js.org/docs/en-guide/loading)
+* [Rendering](https://rax.js.org/docs/en-guide/rendering)
+
+## MIGRATION GUIDE
+
+* [Upgrade from Rax 0.x](https://rax.js.org/docs/en-guide/upgrade)
+* [Transitioning from React to Rax](https://rax.js.org/docs/en-guide/react-compatiblity)
+
+## Components
+
+* [About Components](https://rax.js.org/docs/en-components/introduce)
 
 ## API
 
-* Rax
-	* [render](https://rax.js.org/docs/en-api/render)
-	* [hydrate](https://rax.js.org/docs/en-api/hydrate)
-	* [createPortal](https://rax.js.org/docs/en-api/createportal)
-	* [findDOMNode](https://rax.js.org/docs/en-api/finddomnode)
-	* [setNativeProps](https://rax.js.org/docs/en-api/setnativeprops)
-	* [getElementById](https://rax.js.org/docs/en-api/getelementbyid)
-	* [unmountComponentAtNode](https://rax.js.org/docs/en-api/unmountcomponentatnode)
-	* [createElement](https://rax.js.org/docs/en-api/createelement)
-	* [cloneElement](https://rax.js.org/docs/en-api/cloneelement)
-	* [createFactory](https://rax.js.org/docs/en-api/createfactory)
-	* [isValidElement](https://rax.js.org/docs/en-api/isvalidelement)
-	* [Children](https://rax.js.org/docs/en-api/children)
-	* [memo](https://rax.js.org/docs/en-api/memo)
-	* [Fragment](https://rax.js.org/docs/en-api/fragment)
-	* [createRef](https://rax.js.org/docs/en-api/createref)
-	* [forwardRef](https://rax.js.org/docs/en-api/forwardref)
-	* Hooks
-		* [useState]()
-		* [useEffect](https://rax.js.org/docs/en-api/useeffect)
-		* [useLayoutEffect](https://rax.js.org/docs/en-api/uselayouteffect)
-		* [useContext](https://rax.js.org/docs/en-api/usecontext)
-		* [useRef](https://rax.js.org/docs/en-api/useref)
-		* [useCallback](https://rax.js.org/docs/en-api/usecallback)
-		* [useMemo](https://rax.js.org/docs/en-api/usememo)
-		* [useReducer](https://rax.js.org/docs/en-api/usereducer)
-		* [useImperativeHandle](https://rax.js.org/docs/en-api/useimperativehandle)
-	* [PropTypes](https://rax.js.org/docs/en-api/proptypes)
-	* [version](https://rax.js.org/docs/en-api/version)
-* ANIMATION
-	* [Animation](https://rax.js.org/docs/en-api/animation)
-	* [Transition](https://rax.js.org/docs/en-api/transition)
-* FEEDBACK
-	* [Toast](https://rax.js.org/docs/en-api/toast)
-	* [Alert](https://rax.js.org/docs/en-api/alert)
-	* [Confirm](https://rax.js.org/docs/en-api/confirm)
-* NAVIGATION
-	* [Navigate](https://rax.js.org/docs/en-api/navigate)
-* MEDIA
-	* [ChooseImage](https://rax.js.org/docs/en-api/chooseimage)
-* NETWORK
-	* [Request](https://rax.js.org/docs/en-api/request)
-* SYSTEM
-	* [Env](https://rax.js.org/docs/en-api/env)
-	* [Device](https://rax.js.org/docs/en-api/device)
-	* [Clipboard](https://rax.js.org/docs/en-api/clipboard)
-	* [AppState](https://rax.js.org/docs/en-api/appstate)
-* STORAGE
-	* [AsyncStorage](https://rax.js.org/docs/en-api/asyncstorage)
+* [About Api](https://rax.js.org/docs/en-api/introduce)
+* [Rax Core Api](https://rax.js.org/docs/en-api/render)
+* [Rax Hooks Api](https://rax.js.org/docs/en-api/usestate)
+
