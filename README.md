@@ -117,5 +117,5 @@ A collection of awesome things related to Rax
 - [疫苗预约服务](./MINIAPP_PROJECT_DEMO.md)
 - [浙里办](./MINIAPP_PROJECT_DEMO.md)
 - [天猫精灵](./MINIAPP_PROJECT_DEMO.md)
-- [造点新货]./MINIAPP_PROJECT_DEMO.md()
+- [造点新货](./MINIAPP_PROJECT_DEMO.md)
 - [演出票夹](./MINIAPP_PROJECT_DEMO.md)
