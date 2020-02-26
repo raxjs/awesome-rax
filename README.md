@@ -27,8 +27,7 @@ A collection of awesome things related to Rax
 #### Rax Hooks
 
 - [Rax official Hooks introduce](https://rax.js.org/docs/guide/hooks)
-- [Rax Hooks](https://github.com/raxjs/rax-hooks)
-
+- [Rax Hooks](https://github.com/raxjs/rax-hooks) - Contains rax hooks that are used very frequently. 
 - [Rax Hooks 原理](https://www.yuque.com/liuzijian/reading/otyksg)
 - [前端架构杂思录：议 Function Component 与 Hooks](https://fed.taobao.org/blog/taofed/do71ct/hooks-and-function-component/?spm=taofed.blogs.blog-list.9.fcca5ac8RdqMAZ)
 
@@ -42,6 +41,8 @@ A collection of awesome things related to Rax
 - [rax-hot-loader](https://github.com/alibaba/rax/tree/master/packages/rax-hot-loader)
 - [babel-plugin-transform-rax-jsx-class](https://github.com/kingback/babel-plugin-transform-rax-jsx-class)
 - [server-side-rendering-comparison](https://github.com/raxjs/server-side-rendering-comparison)
+- [story book](https://github.com/storybookjs/storybook) - UI component dev & test
+- [VS Code Extensions](https://github.com/raxjs/rax-vscode-extensions) - Get better development experience.
 
 #### Rax Routing
 
@@ -102,3 +103,19 @@ A collection of awesome things related to Rax
 #### MobX Tools
 
 - [mobx-rax ](https://github.com/alibaba/rax/tree/master/packages/mobx-rax) - Rax component wrapper for combining Rax with MobX
+
+### Project Demo
+
+#### MiniApp Demo
+
+- [八达岭长城景区旗舰店](./MINIAPP_PROJECT_DEMO.md)
+- [飞猪周边游](./MINIAPP_PROJECT_DEMO.md)
+- [东方明珠景区旗舰店](./MINIAPP_PROJECT_DEMO.md)
+- [中免西安机场免税店](./MINIAPP_PROJECT_DEMO.md)
+- [特仑苏会员中心](./MINIAPP_PROJECT_DEMO.md)
+- [我的萌宠](./MINIAPP_PROJECT_DEMO.md)
+- [疫苗预约服务](./MINIAPP_PROJECT_DEMO.md)
+- [浙里办](./MINIAPP_PROJECT_DEMO.md)
+- [天猫精灵](./MINIAPP_PROJECT_DEMO.md)
+- [造点新货](./MINIAPP_PROJECT_DEMO.md)
+- [演出票夹](./MINIAPP_PROJECT_DEMO.md)
