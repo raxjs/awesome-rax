@@ -2,12 +2,12 @@
 
 #### Alipay
 
-You can use Alipay scan these qr code.
+You can use Alipay to scan these QR codes.
 
-<img src="https://img.alicdn.com/tfs/TB1xeucwpY7gK0jSZKzXXaikpXa-1466-1190.png" />
+<img src="https://img.alicdn.com/tfs/TB1zaGawqL7gK0jSZFBXXXZZpXa-1488-1202.png" />
 
 #### Taobao
 
-You can use Taobao scan these qr code.
+You can use Taobao to scan these QR codes.
 
 <img src="https://img.alicdn.com/tfs/TB1fdyquAT2gK0jSZFkXXcIQFXa-184-204.png" />
