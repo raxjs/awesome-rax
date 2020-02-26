@@ -4,7 +4,7 @@
 
 You can use Alipay scan these qr code.
 
-<img src="https://img.alicdn.com/tfs/TB1VHGcwAL0gK0jSZFtXXXQCXXa-1532-714.png" />
+<img src="https://img.alicdn.com/tfs/TB1yuOdwBv0gK0jSZKbXXbK2FXa-1482-902.png" />
 
 #### Taobao
 
