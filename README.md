@@ -119,3 +119,7 @@ A collection of awesome things related to Rax
 - [天猫精灵](./MINIAPP_PROJECT_DEMO.md)
 - [造点新货](./MINIAPP_PROJECT_DEMO.md)
 - [演出票夹](./MINIAPP_PROJECT_DEMO.md)
+
+#### Web Demo / CDN
+
+- [DataFormsJS JSX Loader](https://www.dataformsjs.com/examples/hello-world/zh-CN/rax.htm) - Rax hosted from a CDN and compiled in a browser using DataFormsJS `jsxLoader.js`. Hello World Animation Demo. [GitHub上的文档](https://github.com/dataformsjs/dataformsjs/blob/master/docs/jsx-loader.zh-CN.md)
