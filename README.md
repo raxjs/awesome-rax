@@ -13,7 +13,7 @@ A collection of awesome things related to Rax
 
 ### Rax Community
 
-- [知乎](zhuanlan.zhihu.com/raxjs)
+- [知乎](https://zhuanlan.zhihu.com/raxjs)
 - [React China](http://react-china.org/c/rax)
 
 ### Rax Tutorials
