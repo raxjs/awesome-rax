@@ -75,7 +75,7 @@ A collection of awesome things related to Rax
 
 #### Universal API
 
-- [Rax official universal api](https://rax.js.org/docs/en-api/introduce) 
+- [Rax official universal api](https://rax.js.org/docs/api/about) 
 
 ### Redux
 
